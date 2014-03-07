@@ -357,7 +357,7 @@ customize the resulting theme."
      `(secondary-selection ((,class (:background ,base02))))
 
      `(trailing-whitespace ((,class (:background ,red))))
-     `(vertical-border ((,class (:foreground ,base0))))
+     `(vertical-border ((,class (:foreground ,base02))))
 
      ;; font lock
      `(font-lock-builtin-face ((,class (:foreground ,base0 :weight bold))))
